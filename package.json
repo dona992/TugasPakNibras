@@ -3,6 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vite",
+        "start": "serve dist",
         "build": "vite build"
     },
     "devDependencies": {
